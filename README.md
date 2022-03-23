@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 💬 Ask me about ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehadkhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+aws bootstrap c couchdb cplusplus css3 docker elasticsearch gatsby git go grafana heroku html5 java javascript jenkins kafka kibana kotlin kubernetes mysql nginx opencv php postgresql postman python scikit_learn spring tensorflow
