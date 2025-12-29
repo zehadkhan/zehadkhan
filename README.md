@@ -6,6 +6,12 @@
 <!--
 **zehadkhan/zehadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### 📊 GitHub Overview
+- 📦 Public Repositories: Visible below  
+- 🔒 Private Repositories: Client & enterprise work under NDA  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehadkhan&show_icons=true&theme=default)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
