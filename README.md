@@ -16,8 +16,8 @@
 ---
 
 ### 📊 GitHub Overview
-- 📦 **Public Repositories:** See below  
-- 🔒 **Private Work:** Client & enterprise projects under NDA  
+- 📦 **Public Repositories:** 60+
+- 🔒 **Private Work:** (72+)Client & enterprise projects under NDA 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehadkhan&show_icons=true)
 
