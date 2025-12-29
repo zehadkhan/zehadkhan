@@ -26,7 +26,7 @@
 ---
 
 ### 🛠️ What I Can Help With
-```bash
+```
 git commit -m "Clean architecture, real products, and scalable systems"
 git commit -m "Clean architecture, real products, and scalable systems"
 
