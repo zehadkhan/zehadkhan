@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building **Timeflic** — a modern time-tracking & productivity platform  
+- 🔭 Currently building **productivity platform  
 - 🤔 Open to collaboration on **SaaS, DevTools, Automation, and Open Source**  
 - 💬 Ask me about **Laravel, Next.js, WordPress, system design, and product engineering**
 
